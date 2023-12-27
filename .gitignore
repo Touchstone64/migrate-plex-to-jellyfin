@@ -1,3 +1,6 @@
 venv/
 .vcode/
 __pycache__/
+logs/
+ref/
+.DS_Store
